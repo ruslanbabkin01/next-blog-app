@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://blog-app-sandy-seven.vercel.app/
+
+# Sitemaps
+Sitemap: https://blog-app-sandy-seven.vercel.app/sitemap.xml
